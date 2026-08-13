@@ -1,4 +1,4 @@
-# Hi 👋, I'm MING-ZHI-ONG
+# Hi 👋, I'm ONGMINGZHI
 
 ## 🐍 My Contribution Snake
 
