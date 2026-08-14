@@ -38,13 +38,7 @@ A React application for managing movies and series.
 
 `React` `MUI` `React Router` `localStorage`
 
-🔗 [View Project](https://github.com/ONGMINGZHI)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ONGMINGZHI&show_icons=true&theme=tokyonight)
+🔗 [View Project]([https://github.com/ONGMINGZHI](https://github.com/ONGMINGZHI/CU2/tree/main/react/project/movies))
 
 ---
 
