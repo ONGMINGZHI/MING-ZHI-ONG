@@ -32,13 +32,20 @@
 
 ### 🎬 Movie & Series Watchlist
 
-A React application for managing movies and series.
+A React application for managing movies and TV series.
 
-**Built with:**
+**Features:**
+- ➕ Add, edit and delete titles
+- ⭐ Rating system
+- 🔍 Search, filter and sort
+- 💾 localStorage persistence
+- 🧭 React Router navigation
+- 🌙 Dark/Light mode
 
-`React` `MUI` `React Router` `localStorage`
+**Tech:**  
+`React` `JavaScript` `MUI` `React Router` `localStorage`
 
-🔗 [View Project]([https://github.com/ONGMINGZHI](https://github.com/ONGMINGZHI/CU2/tree/main/react/project/movies))
+🔗 [View Project](https://github.com/ONGMINGZHI/CU2/tree/main/react/project/movies)
 
 ---
 
