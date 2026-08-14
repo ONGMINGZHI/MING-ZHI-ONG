@@ -1,6 +1,5 @@
 # Hi 👋, I'm ONGMINGZHI
 
-## 🐍 My Contribution Snake
 
 <picture>
   <source
