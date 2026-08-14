@@ -49,6 +49,19 @@ A React application for managing movies and TV series.
 
 ---
 
+## 🎮 My Developer Journey
+
+| Level | Technology | Status |
+|---|---|---|
+| 🟢 Lv.1 | 🐍 Python | ✅ Completed |
+| 🟢 Lv.2 | 🌐 HTML & CSS | ✅ Completed |
+| 🟡 Lv.3 | 🟨 JavaScript | 🔄 Improving |
+| 🟡 Lv.4 | ⚛️ React | 🔥 Current |
+| 🔵 Lv.5 | 🔌 REST APIs | 📚 Learning |
+| 🔵 Lv.6 | 🟢 Node.js | 🔒 Next |
+| 🔵 Lv.7 | 🍃 MongoDB | 🔒 Next |
+
+---
 
 <picture>
   <source
@@ -64,7 +77,6 @@ A React application for managing movies and TV series.
     src="https://raw.githubusercontent.com/ONGMINGZHI/ONGMINGZHI/output/github-snake.svg"
   />
 </picture>
-
 ---
 
 ## 📫 Connect With Me
